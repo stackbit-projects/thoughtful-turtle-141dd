@@ -15,7 +15,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        title: ' SHARED A DOCUMENT WITH YOU'
+        title: MARTY SIMS SHARED A DOCUMENT WITH YOU
     feature_padding_vert: large
     align: center
     background_color: none
