@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: features_section
-    subtitle: What I do
     features:
       - subtitle: 'Website, blog, social media and more.'
         content: >-
