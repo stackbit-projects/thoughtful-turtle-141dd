@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: features_section
     features:
-      - subtitle: 'Website, blog, social media and more.'
+      - subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
