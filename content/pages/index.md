@@ -4,10 +4,6 @@ sections:
   - type: features_section
     features:
       - subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
         actions:
           - label: See Writing Samples
             url: /faq
