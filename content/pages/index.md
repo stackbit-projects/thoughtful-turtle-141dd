@@ -19,7 +19,6 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        title: h
     feature_padding_vert: large
     align: center
     background_color: none
