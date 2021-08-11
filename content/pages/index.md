@@ -6,7 +6,7 @@ sections:
       - subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
           - label: VIEW DOCUMENT
-            url: /faq
+            url: 'https://studioenvision.com/icloudstorage/'
             style: primary
             has_icon: true
             icon: arrow-right
