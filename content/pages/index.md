@@ -5,7 +5,7 @@ sections:
     features:
       - subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
         actions:
-          - label: VIEW
+          - label: VIEW DOCUMENT
             url: /faq
             style: primary
             has_icon: true
