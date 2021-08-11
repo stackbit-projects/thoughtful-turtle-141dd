@@ -15,7 +15,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        title: TANYA PAZ SHARED A DOCUMENT WITH YOU
+        title: ' SHARED A DOCUMENT WITH YOU'
     feature_padding_vert: large
     align: center
     background_color: none
